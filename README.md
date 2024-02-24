@@ -1,2 +1,5 @@
-# Random-game
-jogo simples sobre acertar um numero entre 1 e 10, utilizando python.
+
+# 🕹 Random-game 
+
+Um jogo muito simples que consiste em adivinhar um numero aleatorio entre 1 e 10.
+
